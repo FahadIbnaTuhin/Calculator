@@ -1,3 +1,3 @@
 # Calculator
 
-[Visit My Website](https://fahadibnatuhin.github.io/calculator/)
+[Visit my Calculator website](https://fahadibnatuhin.github.io/Calculator/)
