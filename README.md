@@ -1,2 +1,3 @@
-https://fahadibnatuhin.github.io/calculator/
+# Calculator
 
+https://fahadibnatuhin.github.io/calculator/
